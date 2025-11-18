@@ -21,3 +21,7 @@ parts:
   - caption: My Portfolio
     chapters:
       - file: myPortfolio/BlogPost
+
+  - caption: Deep Learning PIT 
+    chapters:
+      - file: PIT/IndivNarrativeReport
