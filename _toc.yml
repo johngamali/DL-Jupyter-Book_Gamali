@@ -24,4 +24,4 @@ parts:
 
   - caption: Deep Learning PIT 
     chapters:
-      - file: PIT/IndivNarrativeReport
+      - file: PIT\IndivNarrativeReport
