@@ -17,3 +17,7 @@ parts:
   - caption: Lectures
     chapters:
       - file: myLectures/lec1
+
+  - caption: My Portfolio
+    chapters:
+      - file: myPortfolio/BlogPost
