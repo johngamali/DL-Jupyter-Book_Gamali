@@ -22,6 +22,6 @@ parts:
     chapters:
       - file: myPortfolio/BlogPost
 
-  - caption: Deep Learning PIT 
+  - caption: PIT 
     chapters:
-      - file: PIT\IndivNarrativeReport
+      - file: myPIT/IndivNarrativeReport
