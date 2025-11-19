@@ -21,7 +21,4 @@ parts:
   - caption: My Portfolio
     chapters:
       - file: myPortfolio/BlogPost
-
-  - caption: PIT 
-    chapters:
-      - file: myPIT/IndivNarrativeReport
+      - file: myPortfolio/IndivNarrativeReport
